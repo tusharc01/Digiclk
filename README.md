@@ -1,5 +1,5 @@
 # Digiclk
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tusharc01/DVLSI/main/CMOS/static_power.png" alt="FPGA_Digiclk" width="400"/>
+  <img src="https://github.com/tusharc01/Digiclk/blob/main/FPGA_digiclk.jpeg" alt="FPGA_Digiclk" width="400"/>
 </p>
