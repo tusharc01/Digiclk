@@ -1,4 +1,4 @@
-Seven Segment Display
+## Seven Segment Display
 
 A seven-segment display is built from individual LED’s arranged in a figure-8 pattern as shown. Any LED/segment can be individually illuminated, so any one of 128 different patterns can be shown. The figure below shows segment illumination patterns for decimal and hexadecimal digits.
 
@@ -6,4 +6,8 @@ The Boolean board includes two 4-digit seven-segment displays (8 total digits) t
 
 To drive a single digit, the corresponding anode signal can be driven (low), and then individual cathodes can be driven (also low) to turn on individual segments. To drive all digits to create an eight-digit display, a scanning display controller is needed. To learn more about seven segment displays, including an example design of a seven-segment controller, see the “Seven segment controller” document:
 
-Reference: https://www.realdigital.org/doc/586fb4c3326dcd493a5774b2a6050f41
+**Reference**: https://www.realdigital.org/doc/586fb4c3326dcd493a5774b2a6050f41
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tusharc01/Digiclk/main/Seven_segment_display.png" alt="Seven Segment Display" width="600">
+</p>
